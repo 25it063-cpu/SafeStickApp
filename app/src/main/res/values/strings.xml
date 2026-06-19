@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SafeStickApp</string>
+    <string name="app_running">SafeStick App Running!</string>
+    <string name="stick_status">Stick Status: Not Connected</string>
+    <string name="emergency_button">EMERGENCY</string>
+    <string name="emergency_sms">Emergency! I need help!</string>
+    <string name="emergency_voice">Emergency message sent</string>
+    <string name="save_emergency">Emergency message sent</string>
+    <string name="steps">Single tap for SOS, Triple tap for resetting the contact number and Double tap to confirm  </string>
+    <string name="bt_connected_voice">Bluetooth Connected</string>
+    <string name="bt_not_connected_voice">Bluetooth Not Connected</string>
+    <string name="hc05_not_paired">HC-05 Not Paired</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="bluetooth_failed">Bluetooth Failed</string>
+    <string name="bluetooth_enabled">Bluetooth Enabled</string>
+    <string name="bluetooth_disabled">Bluetooth Disabled</string>
+
+
+</resources>
